@@ -20,7 +20,7 @@ As well as Redux have some pros it has some cons too. Like
 *  Too many “if … then” comparisons at both reducers and middlewares levels
 *  Too many rebuilds on each state changed
 
-##Conclusions 
+## Conclusions 
 I am not restricting on Redux for every application. All Patterns Redux,Provider,Bolc 
 have advantage and disadvantages too, So my understanding is, You can write a perfect scalable code if you have complete understanding of any of 
 Patten(Bloc,Redux,Provider etc....) architecture and implementations.
