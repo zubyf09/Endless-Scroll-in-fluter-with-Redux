@@ -1,17 +1,31 @@
-# Upday_Assignment
+# UpDay Assignemnt
 
-Image loading application from ShutterStock
+Please implement an app that fetches pictures from the [Shutterstock API](http://api.shutterstock.com/) and displays them in an infinite scrollable view. You can review [API documentation](https://developers.shutterstock.com/api/v2).
+Please use the search endpoint of *Shutterstock*, making sure that new pictures will be fetched and shown when the user scrolls to the end of the list.
 
 
-## Getting Started
+## Solution
+I've used the search endpoint of *Shutterstock* to fetch pictures. As per requirement pictures are fetched and shown when the user scrolls to the end of the list.
 
-This project is a starting point for a Flutter application.
+I've implemented mobile end solution only, backend was already implemented by *Shutterstock*. 
 
-A few resources to get you started if this is your first Flutter project:
+I've used [**Redux**](https://blog.novoda.com/introduction-to-redux-in-flutter) pattern for app architecture because of following reasons: 
+* Reason1
+* Reason2
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## App Screenshot
+![Reflectly hero image][Reflectly hero image]
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+[Reflectly hero image]: https://i.dailymail.co.uk/i/pix/2015/09/01/18/2BE1E88B00000578-3218613-image-m-5_1441127035222.jpg

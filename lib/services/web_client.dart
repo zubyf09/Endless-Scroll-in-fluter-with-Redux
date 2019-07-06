@@ -8,6 +8,7 @@ final Dio dio = new Dio()
   ..options.receiveTimeout
   ..options.contentType = ContentType.json
   ..options.headers = {'Authorization': 'Basic YTg3MmUtZmYzZWEtNzM0NzYtMGU2MjctOWFiYmMtM2IxYjQ6MjFhNGUtMzk4MmQtYTIzYmEtYzE2OTUtNTI0MzYtOTM2NGI='};
+//Header should be in headers
 
 
 class WebClient {
@@ -22,7 +23,6 @@ class WebClient {
 
   Future<dynamic> get(String uri, [data]) async {
     final Response response = await dio.get(uri, queryParameters: data);
-  //  final Response response = await dio.get(uri,);    //get(Api.baseUrl,data);//, data: data);
     return commonBehavior(response);
   }
 
