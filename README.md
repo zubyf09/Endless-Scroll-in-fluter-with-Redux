@@ -11,8 +11,8 @@ I've implemented mobile end solution only, backend was already implemented by *S
 
 I've used [**Redux**](https://blog.novoda.com/introduction-to-redux-in-flutter) pattern for app architecture because of following reasons: 
 
-* [Ability to insert a middleware to log the different actions, By simply adding reference of the middleware method when initializing the Store.)
-* [Redux allows to centralize the management of a State,Reducers can perform the transition from one state to another) 
+*  Ability to insert a middleware to log the different actions, By simply adding reference of the middleware method when initializing the Store.
+* [Redux allows to centralize the management of a State,Reducers can perform the transition from one state to another)
 * [It forces the developer to structure the application in terms of “Event -> Action -> Model -> ViewModel -> View”.)
 As well as Redux have some pros it has some cons too. Like
 * [One single Store and a huge State)
