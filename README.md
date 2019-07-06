@@ -15,7 +15,7 @@ I've used [**Redux**](https://blog.novoda.com/introduction-to-redux-in-flutter) 
 
 
 ## App Screenshot
-![Reflectly hero image][Reflectly hero image]
+![Reflectly hero image][https://github.com/zubyf09/upday_assignment/blob/master/Screenshot%202019-07-06%20at%205.57.41%20PM.png]
 
 
 
