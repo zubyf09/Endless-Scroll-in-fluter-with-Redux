@@ -27,7 +27,8 @@ Patten(Bloc,Redux,Provider etc....) architecture and implementations.
 
  
 ## App Screenshot
-[Screen Shot]
+![Screen Shot](https://github.com/zubyf09/upday_assignment/blob/master/screenshot.png)
+
 
 ## External Libraries 
 * ###  [Reselect](https://pub.dev/packages/reselect)
@@ -46,9 +47,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-[Screen Shot]: ../screenshot.png
 
 
 ## References
