@@ -29,7 +29,6 @@ ShutterStockState loadImagesSuccess(
     page:  state.page + 1,
     // forcing  to change the state and execute StoreConector builder function
     uuid: uuid(),
-
     paginate: false,
   );
 }

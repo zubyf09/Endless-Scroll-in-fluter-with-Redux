@@ -3,8 +3,7 @@ import 'package:upday_assignment/model/shutterstock_model.dart';
 import 'package:upday_assignment/store/state/shutterstock_state.dart';
 import 'package:reselect/reselect.dart';
 
-
-
+//For search Purpose
 final alImageSelector = (ShutterStockState state) => state.images;
 final filterBySelector = (ShutterStockState state) => state.searchText;
 

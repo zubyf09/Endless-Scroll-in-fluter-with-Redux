@@ -21,7 +21,7 @@ As well as Redux have some pros it has some cons too. Like
 *  Too many rebuilds on each state changed
 
 ## Conclusions 
-I am not restricting on Redux for every application. All Patterns Redux,Provider,Bolc 
+I am not restricting on Redux for every application. All Patterns (Redux,Provider,Bolc,etc...) 
 have advantage and disadvantages too, So my understanding is, You can write a perfect scalable code if you have complete understanding of any of 
 Patten(Bloc,Redux,Provider etc....) architecture and implementations.
 
@@ -29,11 +29,16 @@ Patten(Bloc,Redux,Provider etc....) architecture and implementations.
 ## App Screenshot
 [https://github.com/zubyf09/upday_assignment/blob/master/Screenshot%202019-07-06%20at%205.57.41%20PM.png]
 
+## External Libraries 
+* ###  [Reselect](https://pub.dev/packages/reselect)
+    I have to search images so in order to find data from AppState, I Used reslect because it help us to find data easily by filleting  the AppState. 
+    
+## Additional Extra Time on Project.
 
+If I had to spend extra time, then I would write unit/widget tests.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 Please make sure to update tests as appropriate.
 
 ## CV LINK
