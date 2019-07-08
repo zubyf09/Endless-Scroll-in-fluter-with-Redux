@@ -52,7 +52,7 @@ Please make sure to update tests as appropriate.
 
 
 ## References
-[https://medium.com/flutter-community/let-me-help-you-to-understand-and-choose-a-state-management-solution-for-your-app-9ffeac834ee3]
-[https://www.didierboelens.com/2019/04/bloc---scopedmodel---redux---comparison/]
-[https://apolofer.wordpress.com/2019/01/03/state-management-redux-vs-bloc/]
-[https://blog.novoda.com/introduction-to-redux-in-flutter/]
+* [https://medium.com/flutter-community/let-me-help-you-to-understand-and-choose-a-state-management-solution-for-your-app-9ffeac834ee3]
+* [https://www.didierboelens.com/2019/04/bloc---scopedmodel---redux---comparison/]
+* [https://apolofer.wordpress.com/2019/01/03/state-management-redux-vs-bloc/]
+* [https://blog.novoda.com/introduction-to-redux-in-flutter/]
