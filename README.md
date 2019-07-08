@@ -27,7 +27,7 @@ Patten(Bloc,Redux,Provider etc....) architecture and implementations.
 
  
 ## App Screenshot
-[https://github.com/zubyf09/upday_assignment/blob/master/Screenshot%202019-07-06%20at%205.57.41%20PM.png]
+[Screen Shot]
 
 ## External Libraries 
 * ###  [Reselect](https://pub.dev/packages/reselect)
@@ -48,7 +48,7 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-[Reflectly hero image]: https://i.dailymail.co.uk/i/pix/2015/09/01/18/2BE1E88B00000578-3218613-image-m-5_1441127035222.jpg
+[Screen Shot]: ../Screenshot%202019-07-06%20at%205.57.41%20PM.png
 
 
 ## References
@@ -56,3 +56,4 @@ Please make sure to update tests as appropriate.
 *  https://www.didierboelens.com/2019/04/bloc---scopedmodel---redux---comparison/
 *  https://apolofer.wordpress.com/2019/01/03/state-management-redux-vs-bloc/
 *  https://blog.novoda.com/introduction-to-redux-in-flutter/
+
