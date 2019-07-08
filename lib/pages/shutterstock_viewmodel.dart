@@ -6,7 +6,6 @@ import 'package:upday_assignment/store/state/app.state.dart';
 import 'package:upday_assignment/store/state/shutterstock_state.dart';
 
 class ShutterStockViewModel {
-
   final ShutterStockState state;
   final List<ShutterStockModel> images;
 
@@ -25,11 +24,11 @@ class ShutterStockViewModel {
       state: store.state.shutterStockState,
       images: imagesByFilterSelector(store.state.shutterStockState).toList(),
       onView: (img) => store.dispatch(
-        new ViewImageAction(image: img),
-      ),
+            new ViewImageAction(image: img),
+          ),
       onLoad: () => store.dispatch(
-        new LoadImagesAction(paginate: false),
-      ),
+            new LoadImagesAction(paginate: false),
+          ),
     );
   }
 
