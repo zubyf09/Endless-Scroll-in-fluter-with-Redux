@@ -48,7 +48,7 @@ Please make sure to update tests as appropriate.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-[Screen Shot]: ../Screenshot%202019-07-06%20at%205.57.41%20PM.png
+[Screen Shot]: ../screenshot.png
 
 
 ## References
