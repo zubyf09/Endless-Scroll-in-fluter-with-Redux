@@ -1,4 +1,4 @@
-# UpDay Assignemnt
+# Endless Scroll with Redux in Flutter
 
 Please implement an app that fetches pictures from the [Shutterstock API](http://api.shutterstock.com/) and displays them in an infinite scrollable view. You can review [API documentation](https://developers.shutterstock.com/api/v2).
 Please use the search endpoint of *Shutterstock*, making sure that new pictures will be fetched and shown when the user scrolls to the end of the list.
